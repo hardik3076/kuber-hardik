@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Paneer Tikka",
+        "description": "A chef's favorite! Juicy paneer cubes marinated in aromatic spices, grilled to perfection, and served with crisp veggies and mint chutney.",
+        "price": 250,
+        "category": "Starters",
+        "ingredients": "Paneer, yogurt, spices, bell peppers, onions",
+        "image": "assets/paneer-tikka.jpg",
+        "rating": 4.8,
+        "isAvailable": true,
+        "dietary": ["Vegetarian"]
+    },
+    {
+        "name": "Bhindi Masala",
+        "description": "Fresh okra sautéed with onions, tomatoes, and a blend of traditional spices for a homestyle, flavorful delight.",
+        "price": 220,
+        "category": "Main Course",
+        "ingredients": "Okra, onions, tomatoes, spices",
+        "image": "assets/bhindi-masala.jpg",
+        "rating": 4.8,
+        "isAvailable": true,
+        "dietary": ["Vegetarian"]
+    },
+    {
+        "name": "Coconut Ladoo",
+        "description": "Soft, melt-in-mouth ladoos made from fresh coconut and condensed milk, delicately flavored with cardamom.",
+        "price": 150,
+        "category": "Desserts",
+        "ingredients": "Grated coconut, condensed milk, cardamom",
+        "image": "assets/coconut-ladoo.jpg",
+        "rating": 4.9,
+        "isAvailable": true,
+        "dietary": ["Vegetarian"]
+    },
+    {
+        "name": "Vegetable Raita",
+        "description": "Cool and refreshing yogurt mixed with crisp vegetables and a hint of roasted spices—perfect with any meal.",
+        "price": 100,
+        "category": "Drinks",
+        "ingredients": "Yogurt, cucumber, spices",
+        "image": "assets/vegetable-raita.jpg",
+        "rating": 4.5,
+        "isAvailable": true,
+        "dietary": ["Vegetarian"]
+    },
+    {
+        "name": "Kadai Vegetable",
+        "description": "A medley of garden-fresh vegetables tossed in a spicy kadai masala, finished with bell peppers and coriander.",
+        "price": 270,
+        "category": "Main Course",
+        "ingredients": "Mixed vegetables, spices, bell peppers",
+        "image": "assets/kadai-vegetable.jpg",
+        "rating": 4.7,
+        "isAvailable": true,
+        "dietary": ["Vegetarian"]
+    },
+    {
+        "name": "Pulao Biryani",
+        "description": "Aromatic basmati rice cooked with seasonal vegetables and chef's special biryani spices, garnished with fried onions.",
+        "price": 320,
+        "category": "Main Course",
+        "ingredients": "Basmati rice, mixed vegetables, spices",
+        "image": "assets/veg-biryani.jpg",
+        "rating": 4.6,
+        "isAvailable": true,
+        "dietary": ["Vegetarian"]
+    },
+    {
+        "name": "Gobi Manchurian",
+        "description": "Crispy cauliflower florets tossed in a tangy Indo-Chinese sauce, garnished with spring onions.",
+        "price": 180,
+        "category": "Starters",
+        "ingredients": "Cauliflower, soy sauce, spices",
+        "image": "assets/gobi-manchurian.jpg",
+        "rating": 4.9,
+        "isAvailable": true,
+        "dietary": ["Vegetarian"]
+    },
+    {
+        "name": "Pani Puri",
+        "description": "Crispy puris filled with spicy water, potatoes, and chickpeas—a burst of flavors in every bite.",
+        "price": 100,
+        "category": "Street Food",
+        "ingredients": "Puffed puris, spiced water, potatoes, chickpeas",
+        "image": "assets/pani-puri.jpg",
+        "rating": 4.8,
+        "isAvailable": true,
+        "dietary": ["Vegetarian"]
+    },
+    {
+        "name": "Chaas (Buttermilk)",
+        "description": "A refreshing, cool buttermilk drink, lightly spiced and garnished with fresh coriander.",
+        "price": 80,
+        "category": "Drinks",
+        "ingredients": "Yogurt, water, spices",
+        "image": "assets/chaas.jpg",
+        "rating": 4.9,
+        "isAvailable": true,
+        "dietary": ["Vegetarian"]
+    },
+    {
+        "name": "Aloo Gobi",
+        "description": "Classic North Indian dish of potatoes and cauliflower, cooked with turmeric, cumin, and fresh coriander.",
+        "price": 180,
+        "category": "Main Course",
+        "ingredients": "Potatoes, cauliflower, turmeric, cumin, coriander",
+        "image": "assets/aloo-gobi.webp",
+        "rating": 4.8,
+        "isAvailable": true,
+        "dietary": ["Vegetarian"]
+    }
+]
